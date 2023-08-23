@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\pasto-backend.props" />
+</Project>

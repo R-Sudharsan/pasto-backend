@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "aVIKrQLsbLGm8AXd9WkfkYZtcwgWMUg6SZ+1EFlrlsc=",
+  "Source": "pasto-backend",
+  "BasePath": "_content/pasto-backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
